@@ -29,7 +29,7 @@ Inspect the zip to make sure it just has `com` and `.index`
 
 ## Replace files on Bintray
 
-Go to the [upload page](https://bintray.com/mendhak/maven/gpslogger-support-files/0.0.1/upload).
+Go to the [version page](https://bintray.com/mendhak/maven/gpslogger-support-files/0.0.1).
 
 Upload repository0.0.1.zip and choose to 'Explode this archive'.  Publish.
 
